@@ -2,7 +2,7 @@ This repository contains the implementation of Question 3 in 2015 midterm
 
 Suppose you are working on designing (a part of) a university grades management system. The student's <code>GradesMgr</code> must support the following operations:
 <ol>
-<li><code>addGrade(int, String) </code> adds the given grade (integer between 0 and 100) for a given course ID (string) to this student's record,</li>
+<li><code>addGrade(int, String)</code> adds the given grade (integer between 0 and 100) for a given course ID (string) to this student's record,</li>
 <li><code>inGoodStanding()</code> returns whether this student is in good standing.</li>
 <li><code>cgpa()</code> returns this students' cumulative GPA (floating point number between 0 and 4), and</li>
 <li><code>printTranscript()</code> return a nicely formatted string with this student's academic history.</li>
